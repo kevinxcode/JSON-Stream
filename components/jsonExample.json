@@ -1,16 +1,17 @@
 {
     "loginCodes": "success",
-    "details": [
-        {
-            "_gid": "35949",
-            "_pid": "0000d3b7-56e9-5dbd-ffdc-c51aee8c42b0",
-            "_nik": "220009",
-            "_name": "KEVIN ALNIZAR",
-            "_dept": "HUMAN RESOURCES",
-            "_jab": "HR ONLINE ADMINISTRATION",
-            "_created_at": "2023-01-18 15:23:56.4226+07"
-        }
+    "key": "hash('asdhasiudhiasuhywe3242398')",  "details": [
+            {
+                    "_gid": "35949",
+                    "_pid": "0000d3b7-56e9-5dbd-ffdc-c51aee8c42b0",
+                    "_nik": "220009",
+                    "_name": "KEVIN ALNIZAR",
+                    "_dept": "HUMAN RESOURCES",
+                    "_jab": "HR ONLINE ADMINISTRATION",
+                    "_created_at": "2023-01-18 15:23:56.4226+07"
+                }
     ]
+   
     
 }
 
