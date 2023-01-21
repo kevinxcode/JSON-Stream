@@ -1,6 +1,6 @@
 {
     "loginCodes": "success",
-    "key": "hash('asdhasiudhiasuhywe3242398')",
+    "keyToken": "hash('asdhasiudhiasuhywe3242398')",
      "details": [
             {
                     "_gid": "35949",
