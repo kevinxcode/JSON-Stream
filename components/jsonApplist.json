@@ -1,0 +1,14 @@
+{
+    "title": "Application List",
+     "appList": [
+                {
+                    "app_title": "CLAIM APP",
+                    "app_description": "CLAIM APPLICATION",
+                    "type": "in_app",
+                    "link_app": "www.google.com"
+                }
+    ]
+}
+
+
+
