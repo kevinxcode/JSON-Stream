@@ -1,7 +1,7 @@
 {
     "loginCodes": "success",
     "keyToken": "asdhasiudhiasuhywe3242398",
-     "paramKey": {
+    "paramKey": {
         "details": [
             {
                 "_gid": "35949",
@@ -12,9 +12,6 @@
                 "_jab": "HR ONLINE ADMINISTRATION",
                 "_created_at": "2023-01-18 15:23:56.4226+07"
             }
-         ]
-     }
+        ]
+    }
 }
-
-
-

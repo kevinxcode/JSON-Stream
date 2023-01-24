@@ -1,14 +1,12 @@
 {
     "title": "Application List",
-     "appList": [
-                {
-                    "app_title": "CLAIM APP",
-                    "app_description": "CLAIM APPLICATION",
-                    "type": "in_app",
-                    "link_app": "www.google.com"
-                }
+    "appList": [
+        {
+            "app_title": "CLAIM APP",
+            "app_description": "CLAIM APPLICATION",
+            "type": "in_app",
+            "app_link": "www.google.com",
+            "app_icon": "www.google.com"
+        }
     ]
 }
-
-
-
