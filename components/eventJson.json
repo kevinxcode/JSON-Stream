@@ -1,1 +1,17 @@
-{"msgCode":"success","keyToken":"20230131014257pm","details":{"token":"mcu-20230130094329","token_book":"84300902290","tanggal":"2023-01-31","waktu":"13:42:57","no_antrian":"002","gid":"35949","nik":"220009","name":"KEVIN ALNIZAR","dept":"HR","jab":"HR ONLINE ADMINISTRATION","status":"1"}}
+{
+	"msgCode": "success",
+	"keyToken": "20230131014257pm",
+	"details": {
+		"token": "mcu-20230130094329",
+		"token_book": "84300902290",
+		"tanggal": "2023-01-31",
+		"waktu": "13:42:57",
+		"no_antrian": "002",
+		"gid": "35949",
+		"nik": "220009",
+		"name": "KEVIN ALNIZAR",
+		"dept": "HR",
+		"jab": "HR ONLINE ADMINISTRATION",
+		"status": "1"
+	}
+}
