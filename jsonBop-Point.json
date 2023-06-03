@@ -1,8 +1,11 @@
-[
-    {
-        "gid": "213123",
+
+{
+	"msgCode": "success",
+	"keyToken": "20230131014257pm",
+	"details": {
+		"gid": "213123",
         "nik": "budi",
         "point": "1500",
         "date_updt": "2023-06-30 08:00:00"
-    }
-]
+	}
+}
