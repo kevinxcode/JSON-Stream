@@ -1,0 +1,37 @@
+{
+    "loginCodes": "success",
+    "details": [
+        {
+            "_local_id": "2602",
+            "_gid": "35949",
+            "_emp_id": "14302",
+            "_name": "KEVIN ALNIZAR",
+            "_birth_name": "",
+            "_dob": "1994-10-15",
+            "_doj": "2020-01-09",
+            "_gender": "Male",
+            "_marital": "Single",
+            "_edu": "Strata 1",
+            "_company_label": "PTCT",
+            "_company_name": "PT CITRA TUBINDO TBK",
+            "_nik": "220009",
+            "_init_date": "2020-01-09",
+            "_resign_date": null,
+            "_emp_type": "WC1",
+            "_dept": "HUMAN RESOURCES",
+            "_dept_short": "HR",
+            "_jab_code": "1RR660",
+            "_jab": "HR ONLINE ADMINISTRATION",
+            "_grade": "12",
+            "_cost_code": "P14100",
+            "_cost_label": "P14100 HR Batam",
+            "_contract_status": "P",
+            "_contract_type": "Employee",
+            "_currency": "IDR",
+            "_email": "kevin.alnizar@citratubindo.com",
+            "_n1_gid": "15075",
+            "_n1_name": "AGUSTINUS DARMODJO",
+            "_n1_email": "agustinus.darmodjo@citratubindo.com"
+        }
+    ]
+}

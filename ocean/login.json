@@ -1,0 +1,28 @@
+{
+    "loginCodes": "success",
+    "details": [
+        {
+            "_gid": "35949",
+            "_emp_id": "14302",
+            "_nik": "220009",
+            "_name": "KEVIN ALNIZAR",
+            "_dob": "1994-10-15",
+            "_gender": "Male",
+            "_emp_type": "WC1",
+            "_init_date": "2020-01-09",
+            "_resign_date": null,
+            "_dept_short": "HR",
+            "_dept": "HUMAN RESOURCES",
+            "_jab": "HR ONLINE ADMINISTRATION",
+            "_jab_label": "HR ONLINE ADMINISTRATION",
+            "_email": "kevin.alnizar@citratubindo.com",
+            "_company_name": "PT CITRA TUBINDO TBK",
+            "_company_group": "PTCT",
+            "_contract_status": "P",
+            "_contract_type": "Employee",
+            "_currency": "IDR",
+            "_sso_access": "t",
+            "_login_as": "0"
+        }
+    ]
+}
