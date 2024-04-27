@@ -4,7 +4,7 @@
         {
             "emp_id": "123456",
             "name": "KEVIN ALNIZAR",
-            "email": "kevin.alnizar@gmail.com",
+            "email": "kevinalnizar@gmail.com",
             "password": "demo!"
         }
     ]
