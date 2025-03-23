@@ -1,0 +1,10 @@
+[
+    {
+        "platform": "ios",
+        "link": "https://example.com/icons/electronics.png"
+    },
+    {
+        "platform": "android",
+        "link": "https://example.com/icons/clothing.png"
+    }
+]
